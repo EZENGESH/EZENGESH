@@ -1,1 +1,1 @@
-I am learning to use github in software development
+ Build a project with easy with Github. Github is a powerful software development tool. 
