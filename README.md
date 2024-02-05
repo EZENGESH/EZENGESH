@@ -1,1 +1,5 @@
- Build a project with easy with Github. Github is a powerful software development tool. 
+Hi, there 
+
+Upcoming Frontend web developer. 
+
+Growing slowly but steady 
