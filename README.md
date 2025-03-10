@@ -23,5 +23,5 @@ I'm a passionate web developer specializing in **HTML, CSS, JavaScript, and Pyth
 
 ## 🔗 Let's Connect!
 📧 Email: ezengesh@gmail.com  
-💼 LinkedIn: [Your LinkedIn Profile]  
-🚀 GitHub: [Your GitHub Profile]  
+💼 LinkedIn: https://www.linkedin.com/in/ezengesh  
+🚀 GitHub: EZENGESH  
